@@ -69,8 +69,3 @@ Contoh prediksi pada gambar test set setelah training:
 - Model ini dapat ditingkatkan dengan arsitektur **ResNet / EfficientNet** untuk hasil yang lebih optimal.  
 - Dataset bisa diperluas dengan lebih banyak gambar agar model lebih generalisasi.  
 
-# Simpan file README.md
-with open("submission/README.md", "w") as f:
-    f.write(readme_content)
-
-print("README.md telah berhasil dibuat!")
