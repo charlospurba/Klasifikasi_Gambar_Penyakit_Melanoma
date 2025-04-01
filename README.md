@@ -62,7 +62,8 @@ Model CNN terdiri dari lapisan berikut:
 ## **6. Hasil Prediksi Model**  
 Contoh prediksi pada gambar test set setelah training:  
 
-![Uploading Screenshot 2025-04-01 173832.png…]()
+![Screenshot 2025-04-01 173832](https://github.com/user-attachments/assets/b1595add-a9ff-4796-9d55-0ad5c4478077)
+
 
 ## **7. Catatan & Pengembangan Selanjutnya**  
 - Model ini dapat ditingkatkan dengan arsitektur **ResNet / EfficientNet** untuk hasil yang lebih optimal.  
